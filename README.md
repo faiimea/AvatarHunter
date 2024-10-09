@@ -18,6 +18,10 @@
 ### Dataset & Preparation
 Download [CASIA-B Dataset](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp)
 
+Download [TrainData_Sys4](https://drive.google.com/file/d/1zwt9GAx8qGd7Kr713ioFffqw7ivkEDmW/view?usp=sharing)
+
+Download [TestData_Sys4](https://drive.google.com/file/d/1Yw3hrHY3VCUGC-qEVSX2Uy1ON3FzmYSh/view?usp=sharing)
+
 **!!! ATTENTION !!! ATTENTION !!! ATTENTION !!!**
 
 Before training or test, please make sure you have prepared the dataset
